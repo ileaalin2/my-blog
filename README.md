@@ -1,2 +1,2 @@
 # my-blog
-I'll work on this project with Vlad.
+I'll work on this project with Vlad

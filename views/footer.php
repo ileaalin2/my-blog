@@ -1,4 +1,5 @@
 <!-- This is the previous version of footer.php worked with foreach. Now it's not functional. -->
+<!-- test  -->
 <?php
     $team = array(
         'ilear'    => 'My site',

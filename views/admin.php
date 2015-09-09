@@ -1,5 +1,5 @@
 <!-- main content -->
-// test
+<!-- test -->
 <main class="main-contact">
     <div>
 		<h2>Admin</h2>

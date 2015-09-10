@@ -1,4 +1,5 @@
 <?php
+// test
 class Base {
     function render($view, $data = '') {
         $content = file_get_contents($view);
